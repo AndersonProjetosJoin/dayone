@@ -60,7 +60,7 @@ Fui pouco além do exigido nesta performance de desenvolvimento, chamei o sistem
 
 Contatos:
 
-
+<img src="/imgreadme/2.png">
 
 Dentro da tela contatos contamos com os item de menu Contato, Tarefas, Eventos, Nome logado, botão Sair, Adição de novo Contato, pesquisa e paginação.
 Note que antes do ID no form contém uma estrela, esta permite clicar e deixar nome como favorito.
@@ -68,7 +68,7 @@ Nesta mesma tela temos a visualização de dados do contato e paginação como r
 
 
 
-
+<img src="/imgreadme/3.png">
 
 
 
@@ -87,12 +87,12 @@ Nesta mesma tela temos a visualização de dados do contato e paginação como r
 
 Editar Contato:
 
-
+<img src="/imgreadme/4.png">
 
 
 Nesta tela é possível, editar Nome, CPF, E-mail, Telefone, Endereço (uma vez que ao digitar o novo CEP, ele faz a validação e já traz o endereço do CEP digitado através da validação com VIACEP (https://viacep.com.br/), Sexo e data de nascimento, bem como fazer um 
 
-
+<img src="/imgreadme/5.png">
 
 Upload de uma foto do contato.
 Excluir contato:
