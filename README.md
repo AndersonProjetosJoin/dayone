@@ -41,10 +41,13 @@ Opção para download em Windows e Linux.
 3° - No arquivo conexao.php defina o bloco para uso no mysql
 Instalação da aplicação (código fonte)
 1 - Git clone: https://github.com/AndersonProjetosJoin/dayone  ou faça download do código fonte direto para uma pasta local do seu computador onde está instalado o wampserver com o nome dayone
+
 Uso
 O projeto está localizado em: http://localhost/dayone
 Usuário: admin
 Senha: 123456
+
+
 <img src="/imgreadme/1.png">
 Autor  Anderson de Carvalho Fernandes
 Github: https://github.com/AndersonProjetosJoin
