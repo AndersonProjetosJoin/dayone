@@ -45,7 +45,7 @@ Uso
 O projeto está localizado em: http://localhost/dayone
 Usuário: admin
 Senha: 123456
-
+<img src="/imgreadme/1.png">
 Autor  Anderson de Carvalho Fernandes
 Github: https://github.com/AndersonProjetosJoin
 
