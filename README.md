@@ -29,9 +29,12 @@ IDE de sua preferência
 Para uso do Banco de dados no Docker:
 1° - Faça o download do Docker em https://www.docker.com/
 Opção para download em Windows e Linux.
-2° - Instale o Docker em sua máquina e execute o comando abaixo para instalar o mysql no docker 
+2° - Instale o Docker em sua máquina e execute no Powershell o comando abaixo para instalar o mysql no docker 
+docker run -d --name dayone -p 3396:3306 -e MYSQL_ROOT_PASSWORD=root -d  mysql/mysql-server
 3° - Execute o mysql no docker
 4° - No arquivo conexao.php defina o bloco para uso no docker
+
+<img src="/imgreadme/15.png">
 
 Para uso do Banco de dados no PHPMyadmin:
 1° - Faça o download do WampServer e, https://www.wampserver.com/ 
