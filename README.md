@@ -26,6 +26,10 @@ mysql
 Docker
 IDE de sua preferência
 
+
+OBS.: MODO MAIS RÁPIDO PARA SUBIR SISTEMA É OU INSTALAR O WMP. OU XAMPP SERVER COM PHPMYDAMIN E IMPORTANDO O BANCO DE DADOS.
+PARA QUEM JÁ TEM A MÁQUINA PREPARADA PARA PHP E WORKBENCH NÃO SERÁ NECESSÁRIO INSTALAR O WAMPSERVER.
+
 Para uso do Banco de dados no Docker:
 1° - Faça o download do Docker em https://www.docker.com/
 Opção para download em Windows e Linux.
