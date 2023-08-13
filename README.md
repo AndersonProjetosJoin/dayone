@@ -68,24 +68,10 @@ Nesta mesma tela temos a visualização de dados do contato e paginação como r
 
 
 
-<img src="/imgreadme/3.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Editar Contato:
+
+
+<img src="/imgreadme/3.png">
 
 <img src="/imgreadme/4.png">
 
@@ -102,22 +88,28 @@ Excluir contato:
 
 Ao clicar em excluir (botão Lixeira ao lado de editar), ele automaticamente exclui o contato da tela de visualização e do banco de dados.
 Nesta mesma tela de Contatos podemos pesquisar por nome o contato.
-Novo Contato:
 
 <img src="/imgreadme/7.png">
+
+
+Novo Contato:
+
+<img src="/imgreadme/8.png">
 
 
 
 Nesta tela você cadastra um novo contato com dados pertinentes ao mesmo, o mesmo salvará o contato em BD e exibir na tela contatos.
 
 
-<img src="/imgreadme/8.png">
+<img src="/imgreadme/9.png">
+
+<img src="/imgreadme/10.png">
 
 
 Tela de tarefas:
 
 
-<img src="/imgreadme/9.png">
+<img src="/imgreadme/11.png">
 
 
 
@@ -125,7 +117,7 @@ Acessando a tela de tarefas, teremos um botão para adição de nova tarefa, pes
 
 Editar Tarefas:
 
-<img src="/imgreadme/10.png">
+<img src="/imgreadme/12.png">
 
 
 Nesta tela você poderá alterar todo o conteúdo da tarefa do contato como título, descrição data conclusão e hora da conclusão.
@@ -133,7 +125,7 @@ Nesta tela você poderá alterar todo o conteúdo da tarefa do contato como tít
 
 Adicionar nova tarefa:
 
-<img src="/imgreadme/11.png">
+<img src="/imgreadme/12.png">
 
 
 
@@ -141,14 +133,14 @@ Nesta tela é possível adicionar nova tarefa para o contato com o título, desc
 
 Tela eventos:
 
-<img src="/imgreadme/11.png">
+<img src="/imgreadme/13.png">
 
 
 Acessando a tela de tarefas, teremos um botão para adição de nova tarefa, pesquisa de tarefas, bem como botão para editar a tarefa e excluir a mesma. (Seguindo modelo de paginação como solicitado, onde foi incrementado o total de registro)
 
 Adicionar novo evento:
 
-<img src="/imgreadme/12.png">
+<img src="/imgreadme/14.png">
 
 
 Nesta tela é possível adicionar novo evento para o contato com o título, descrição data de início, data de fim, hora do início e hora do fim.
