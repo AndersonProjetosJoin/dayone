@@ -91,37 +91,66 @@ Editar Contato:
 
 
 Nesta tela é possível, editar Nome, CPF, E-mail, Telefone, Endereço (uma vez que ao digitar o novo CEP, ele faz a validação e já traz o endereço do CEP digitado através da validação com VIACEP (https://viacep.com.br/), Sexo e data de nascimento, bem como fazer um 
+Upload de uma foto do contato.
 
 <img src="/imgreadme/5.png">
 
-Upload de uma foto do contato.
 Excluir contato:
+
+<img src="/imgreadme/6.png">
+
 
 Ao clicar em excluir (botão Lixeira ao lado de editar), ele automaticamente exclui o contato da tela de visualização e do banco de dados.
 Nesta mesma tela de Contatos podemos pesquisar por nome o contato.
 Novo Contato:
+
+<img src="/imgreadme/7.png">
 
 
 
 Nesta tela você cadastra um novo contato com dados pertinentes ao mesmo, o mesmo salvará o contato em BD e exibir na tela contatos.
 
 
-
+<img src="/imgreadme/8.png">
 
 
 Tela de tarefas:
 
+
+<img src="/imgreadme/9.png">
+
+
+
 Acessando a tela de tarefas, teremos um botão para adição de nova tarefa, pesquisa de tarefas, bem como botão para editar a tarefa e excluir a mesma. (Seguindo modelo de paginação como solicitado, onde foi incrementado o total de registro)
 
 Editar Tarefas:
+
+<img src="/imgreadme/10.png">
+
+
 Nesta tela você poderá alterar todo o conteúdo da tarefa do contato como título, descrição data conclusão e hora da conclusão.
+
+
 Adicionar nova tarefa:
+
+<img src="/imgreadme/11.png">
+
+
+
 Nesta tela é possível adicionar nova tarefa para o contato com o título, descrição data de conclusão, uma data para lembrete e hora de lembrete ao usuário e recorrência (diariamente, semanalmente, mensalmente ou anualmente).
 
 Tela eventos:
+
+<img src="/imgreadme/11.png">
+
+
 Acessando a tela de tarefas, teremos um botão para adição de nova tarefa, pesquisa de tarefas, bem como botão para editar a tarefa e excluir a mesma. (Seguindo modelo de paginação como solicitado, onde foi incrementado o total de registro)
 
 Adicionar novo evento:
+
+<img src="/imgreadme/12.png">
+
+
 Nesta tela é possível adicionar novo evento para o contato com o título, descrição data de início, data de fim, hora do início e hora do fim.
 
 
