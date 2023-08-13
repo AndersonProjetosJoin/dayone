@@ -32,7 +32,6 @@ Opção para download em Windows e Linux.
 2° - Instale o Docker em sua máquina e execute no Powershell o comando abaixo para instalar o mysql no docker 
 docker run -d --name dayone -p 3396:3306 -e MYSQL_ROOT_PASSWORD=root -d  mysql/mysql-server
 3° - Execute o mysql no docker
-4° - No arquivo conexao.php defina o bloco para uso no docker
 
 <img src="/imgreadme/15.png">
 
