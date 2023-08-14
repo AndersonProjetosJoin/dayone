@@ -29,6 +29,9 @@ IDE de sua preferência
 
 OBS.: MODO MAIS RÁPIDO PARA SUBIR E TESTAR SISTEMA É OU INSTALAR O WAMP. OU XAMPP SERVER COM PHPMYADMIN E IMPORTANDO O BANCO DE DADOS.
 PARA QUEM JÁ TEM A MÁQUINA PREPARADA PARA PHP E WORKBENCH NÃO SERÁ NECESSÁRIO INSTALAR O WAMPSERVER.
+PARA QUEM JA TEM EXPERIENCIA COM DOCKER USAR MODO EXPERT, SE VOCÊ É INICIANTE, PREPARE O SISTEMA COM MODO INICIANTE.
+
+Preparação do ambiente modo Expert
 
 Para uso do Banco de dados no Docker:
 1° - Faça o download do Docker em https://www.docker.com/
@@ -38,6 +41,10 @@ docker run -d --name dayone -p 3396:3306 -e MYSQL_ROOT_PASSWORD=root -d  mysql/m
 3° - Execute o mysql no docker
 
 <img src="/imgreadme/15.png">
+
+
+Preparação ambiente modo Inciante
+
 
 Para uso do Banco de dados no PHPMyadmin:
 1° - Faça o download do WampServer e, https://www.wampserver.com/ 
